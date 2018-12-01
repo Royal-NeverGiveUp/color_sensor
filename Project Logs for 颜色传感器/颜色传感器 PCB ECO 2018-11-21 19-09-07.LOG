@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TIM1_CH1 Pin=Q2-G
+Removed Pin From Net: NetName=TIM1_CH1 Pin=Q3-G
+Removed Pin From Net: NetName=TIM1_CH1 Pin=Q4-G
+Removed Pin From Net: NetName=TIM1_CH1 Pin=R7-1
+Removed Pin From Net: NetName=TIM1_CH1 Pin=R10-1
+Removed Pin From Net: NetName=TIM1_CH1 Pin=R11-1
+Added Pin To Net: NetName=TIM1_CH2 Pin=Q2-G
+Added Pin To Net: NetName=TIM1_CH3 Pin=Q3-G
+Added Pin To Net: NetName=TIM1_CH4 Pin=Q4-G
+Added Pin To Net: NetName=TIM1_CH2 Pin=R7-1
+Added Pin To Net: NetName=TIM1_CH3 Pin=R10-1
+Added Pin To Net: NetName=TIM1_CH4 Pin=R11-1
+Added Room: Name=Sheet1

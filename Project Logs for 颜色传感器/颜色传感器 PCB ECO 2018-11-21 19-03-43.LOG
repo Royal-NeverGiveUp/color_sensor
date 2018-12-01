@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=LED1 Old Footprint=0805D New Footprint=LEDÖ±²å8MM
+Change Component Footprint: Designator=LED2 Old Footprint=LEDÖ±²å8MM New Footprint=0805D
+Added Pin To Net: NetName=5V Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PA1 Pin=TCS1-1
+Removed Pin From Net: NetName=PA2 Pin=TCS1-2
+Removed Pin From Net: NetName=PA3 Pin=TCS1-8
+Added Pin To Net: NetName=PA1 Pin=TCS1-2
+Added Pin To Net: NetName=PA3 Pin=TCS1-7
+Added Pin To Net: NetName=PA2 Pin=TCS1-8
+Added Pin To Net: NetName=PA0 Pin=STM1-10
+Added Pin To Net: NetName=PA0 Pin=TCS1-1
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA4_IN Pin=STM1-14
+Added Pin To Net: NetName=PA4_IN Pin=TCS1-6
+Added Net: Name=PA4_IN
+Added Member To Class: ClassName=Sheet1 Member=Component STM1 STM32F072C
+Added Room: Name=Sheet1

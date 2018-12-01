@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=5V Pin=LED1-A
+Removed Pin From Net: NetName=TIM1_CH3 Pin=Q1-G
+Removed Pin From Net: NetName=PGND Pin=Q1-S
+Removed Pin From Net: NetName=TIM1_CH2 Pin=Q3-G
+Removed Pin From Net: NetName=TIM1_CH4 Pin=Q4-G
+Removed Pin From Net: NetName=NetLED3_K Pin=R5-1
+Removed Pin From Net: NetName=NetQ3_D Pin=R5-2
+Removed Pin From Net: NetName=TIM1_CH3 Pin=R7-1
+Removed Pin From Net: NetName=TIM1_CH2 Pin=R9-1
+Removed Pin From Net: NetName=PGND Pin=R9-2
+Removed Pin From Net: NetName=NetLED4_K Pin=R10-1
+Removed Pin From Net: NetName=NetQ4_D Pin=R10-2
+Removed Pin From Net: NetName=TIM1_CH4 Pin=R11-1
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=20
+Change Component Comment : Designator=R10 Old Comment=20 New Comment=10K
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=VIN NewDesignator=VIN1
+Added Component: Designator=LED2(LEDÖ±²å8MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(NMOS_SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "*k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "*k¦¸"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TIM1_CH1 Pin=Q2-G
+Added Pin To Net: NetName=PGND Pin=Q2-S
+Added Pin To Net: NetName=TIM1_CH1 Pin=Q3-G
+Added Pin To Net: NetName=TIM1_CH1 Pin=Q4-G
+Added Pin To Net: NetName=TIM1_CH1 Pin=R7-1
+Added Pin To Net: NetName=NetLED3_K Pin=R8-1
+Added Pin To Net: NetName=NetQ3_D Pin=R8-2
+Added Pin To Net: NetName=NetLED4_K Pin=R9-1
+Added Pin To Net: NetName=NetQ4_D Pin=R9-2
+Added Pin To Net: NetName=TIM1_CH1 Pin=R10-1
+Added Pin To Net: NetName=PGND Pin=R10-2
+Added Pin To Net: NetName=TIM1_CH1 Pin=R11-1
+Change Net Name : Old Net Name=NetLED2_K New Net Name=NetLED1_K
+Change Net Name : Old Net Name=NetQ2_D New Net Name=NetQ1_D
+Added Pin To Net: NetName=NetLED2_K Pin=R4-1
+Added Net: Name=NetLED2_K
+Added Pin To Net: NetName=NetQ2_D Pin=Q2-D
+Added Pin To Net: NetName=NetQ2_D Pin=R4-2
+Added Net: Name=NetQ2_D
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C6 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 lED
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 MOSFET N
+Added Member To Class: ClassName=Sheet1 Member=Component R4 20
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 20
+Added Member To Class: ClassName=Sheet1 Member=Component R9 20
+Added Member To Class: ClassName=Sheet1 Member=Component R10 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R11 10K
+Added Room: Name=Sheet1

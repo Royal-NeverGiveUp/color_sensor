@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=1 NewDesignator=CAN_120
+Change Component Designator: OldDesignator=S1 NewDesignator=NRST
+Change Component Designator: OldDesignator=S2 NewDesignator=SET
+Change Component Designator: OldDesignator=U1 NewDesignator=1117
+Change Net Name : Old Net Name=Net1_1 New Net Name=NetCAN_120_1
+Added Room: Name=Sheet1

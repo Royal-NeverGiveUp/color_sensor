@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=SW1
+Change Component Designator: OldDesignator=TJA NewDesignator=TJA1
+Change Component Designator: OldDesignator=TX NewDesignator=USART1
+Change Component Designator: OldDesignator=VIN NewDesignator=VIN1
+Added Component: Designator=?(0805D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=?(0805D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=?-K
+Added Pin To Net: NetName=PGND Pin=?-K
+Added Pin To Net: NetName=VIN Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=Net?_A Pin=?-A
+Added Pin To Net: NetName=Net?_A Pin=R?-1
+Added Net: Name=Net?_A
+Change Class Name : Old Net Name=Sheet1 New Net Name=颜色传感器
+Added Member To Class: ClassName=颜色传感器 Member=Component ? lED
+Added Member To Class: ClassName=颜色传感器 Member=Component ? lED
+Added Member To Class: ClassName=颜色传感器 Member=Component R? Res1
+Added Member To Class: ClassName=颜色传感器 Member=Component R? Res1
+Added Room: Name=颜色传感器

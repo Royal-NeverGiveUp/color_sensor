@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_H Pin=VIN1-3
+Removed Pin From Net: NetName=CAN_L Pin=VIN1-4
+Added Pin To Net: NetName=CANH Pin=VIN1-3
+Added Pin To Net: NetName=CANL Pin=VIN1-4
+Added Room: Name=Sheet1

@@ -1,0 +1,22 @@
+Added Component: Designator=TCS1(SOP_E150_8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TCS2(DFN-6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PA1 Pin=TCS1-1
+Added Pin To Net: NetName=PA2 Pin=TCS1-2
+Added Pin To Net: NetName=GND Pin=TCS1-3
+Added Pin To Net: NetName=GND Pin=TCS1-4
+Added Pin To Net: NetName=5V Pin=TCS1-5
+Added Pin To Net: NetName=PA0_IN Pin=TCS1-6
+Added Pin To Net: NetName=PA4 Pin=TCS1-7
+Added Pin To Net: NetName=PA3 Pin=TCS1-8
+Added Pin To Net: NetName=3V3 Pin=TCS2-1
+Added Pin To Net: NetName=SCL Pin=TCS2-2
+Added Pin To Net: NetName=GND Pin=TCS2-3
+Added Pin To Net: NetName=PA5 Pin=TCS2-5
+Added Pin To Net: NetName=SDA Pin=TCS2-6
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 lED
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 MOSFET N
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet1 Member=Component TCS1 TCS230
+Added Member To Class: ClassName=Sheet1 Member=Component TCS2 TCS34725FN

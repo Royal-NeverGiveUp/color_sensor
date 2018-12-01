@@ -1,0 +1,132 @@
+Removed Pin From Net: NetName=PA1 Pin=*-1
+Removed Pin From Net: NetName=PA2 Pin=*-2
+Removed Pin From Net: NetName=GND Pin=*-3
+Removed Pin From Net: NetName=5V Pin=*-5
+Removed Pin From Net: NetName=PA3 Pin=*-8
+Change Component Designator: OldDesignator=* NewDesignator=*3
+Change Component Designator: OldDesignator=*? NewDesignator=*1
+Change Component Designator: OldDesignator=? NewDesignator=1
+Change Component Designator: OldDesignator=? NewDesignator=2
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=P? NewDesignator=SW
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=STM32 NewDesignator=STM1
+Change Component Designator: OldDesignator=USART? NewDesignator=USART1
+Change Component Designator: OldDesignator=XT? NewDesignator=XT1
+Added Component: Designator=IO(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_8 Pin=*3-8
+Change Net Name : Old Net Name=Net*_4 New Net Name=Net*3_4
+Change Net Name : Old Net Name=Net*_8 New Net Name=Net*3_8
+Change Net Name : Old Net Name=Net?_1 New Net Name=Net1_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetLED?_K New Net Name=NetLED4_K
+Change Net Name : Old Net Name=NetQ?_D New Net Name=NetQ4_D
+Added Pin To Net: NetName=Net*3_1 Pin=*3-1
+Added Pin To Net: NetName=Net*3_1 Pin=C3-1
+Added Net: Name=Net*3_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R10-2
+Added Pin To Net: NetName=NetC7_2 Pin=STM1-5
+Added Pin To Net: NetName=NetC7_2 Pin=XT1-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=NetLED1_K Pin=R3-1
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K
+Added Pin To Net: NetName=NetLED2_K Pin=R4-1
+Added Net: Name=NetLED2_K
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-K
+Added Pin To Net: NetName=NetLED3_K Pin=R5-1
+Added Net: Name=NetLED3_K
+Added Pin To Net: NetName=NetQ1_D Pin=Q1-D
+Added Pin To Net: NetName=NetQ1_D Pin=R3-2
+Added Net: Name=NetQ1_D
+Added Pin To Net: NetName=NetQ2_D Pin=Q2-D
+Added Pin To Net: NetName=NetQ2_D Pin=R4-2
+Added Net: Name=NetQ2_D
+Added Pin To Net: NetName=NetQ3_D Pin=Q3-D
+Added Pin To Net: NetName=NetQ3_D Pin=R5-2
+Added Net: Name=NetQ3_D
+Added Pin To Net: NetName=PB3 Pin=IO-1
+Added Pin To Net: NetName=PB3 Pin=STM1-39
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=IO-2
+Added Pin To Net: NetName=PB4 Pin=STM1-40
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=IO-3
+Added Pin To Net: NetName=PB5 Pin=STM1-41
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=IO-4
+Added Pin To Net: NetName=PB6 Pin=STM1-42
+Added Net: Name=PB6
+Added Member To Class: ClassName=Sheet1 Member=Component 1 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 0.1u
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap Pol1
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C6 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C7 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 0.1u
+Added Member To Class: ClassName=Sheet1 Member=Component C10 0.1u
+Added Member To Class: ClassName=Sheet1 Member=Component C11 0.1u
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0.1u
+Added Member To Class: ClassName=Sheet1 Member=Component C13 0.1u
+Added Member To Class: ClassName=Sheet1 Member=Component IO Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 lED
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 lED
+Added Member To Class: ClassName=Sheet1 Member=Component LED4 lED
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 MOSFET N
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 MOSFET N
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 MOSFET N
+Added Member To Class: ClassName=Sheet1 Member=Component R1 RES
+Added Member To Class: ClassName=Sheet1 Member=Component R2 RES
+Added Member To Class: ClassName=Sheet1 Member=Component R3 20
+Added Member To Class: ClassName=Sheet1 Member=Component R4 20
+Added Member To Class: ClassName=Sheet1 Member=Component R5 20
+Added Member To Class: ClassName=Sheet1 Member=Component R6 20
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R10 1M¦¸
+Added Member To Class: ClassName=Sheet1 Member=Component R11 RES
+Added Member To Class: ClassName=Sheet1 Member=Component R12 RES
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SW-PB
